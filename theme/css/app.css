@@ -1,0 +1,27 @@
+div.main-title h1 {
+  padding: 50px 0 0 0;
+}
+
+div.main-nav {
+  padding: 50px 0;
+}
+
+div.main-nav li {
+  padding: 0 30px;
+}
+div.hero-images {
+  padding: 50px 0 100px 0;
+}
+
+
+div.content-section {
+  padding: 0 0 30px 0;
+}
+
+.content-section h2 {
+  padding: 10px 0;
+}
+
+div.contact-us-content {
+  padding: 0 0 0 10px;
+}
